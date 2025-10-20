@@ -199,8 +199,6 @@
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat
-/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.o160l2v0lx.wasm
-/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.193ijqba3g.pdb
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/blazor.webassembly.js.gz
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.z6jo10m0rd.wasm.gz
@@ -403,8 +401,6 @@
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/icudt_CJK.tjcz0u77k5.dat.gz
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/icudt_EFIGS.tptq2av103.dat.gz
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/icudt_no_CJK.lfu7j35m59.dat.gz
-/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.o160l2v0lx.wasm.gz
-/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.193ijqba3g.pdb.gz
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json.gz
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/BlazorDemo.staticwebassets.runtime.json
 /Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/BlazorDemo.staticwebassets.endpoints.json
@@ -1068,9 +1064,6 @@
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/6l7p6mxk71-tjcz0u77k5.gz
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/m4yfiltmyw-tptq2av103.gz
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/561pcyxw62-lfu7j35m59.gz
-/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/a3tmo4wt4j-o160l2v0lx.gz
-/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/lgmeeiifr7-193ijqba3g.gz
-/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/dhj3cw0q3w-wr3y3z8skz.gz
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/staticwebassets.build.json
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/staticwebassets.build.json.cache
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/staticwebassets.development.json
@@ -1080,3 +1073,11 @@
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/refint/BlazorDemo.dll
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/BlazorDemo.pdb
 /Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/ref/BlazorDemo.dll
+/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.dtn9bjlyik.wasm
+/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.vb5a4llx8h.pdb
+/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.dtn9bjlyik.wasm.gz
+/Users/iancorbett/Desktop/BlazorDemo/bin/Debug/net9.0/wwwroot/_framework/BlazorDemo.vb5a4llx8h.pdb.gz
+/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/BlazorDemo.sourcelink.json
+/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/a3tmo4wt4j-dtn9bjlyik.gz
+/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/lgmeeiifr7-vb5a4llx8h.gz
+/Users/iancorbett/Desktop/BlazorDemo/obj/Debug/net9.0/compressed/dhj3cw0q3w-gcv844dua1.gz
